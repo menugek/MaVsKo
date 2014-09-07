@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 00b4fb9b74e3277499c2cca46de3e205
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bullet
+    21300002: bullet_0
+    21300004: bullet_1
+    21300006: bullet_2
+    21300008: bullet_3
+    21300010: bullet_4
+    21300012: bullet_5
+    21300014: bullet_6
+    21300016: bullet_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bullet_0
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 343
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bullet_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 343
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bullet_2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 343
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bullet_3
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 343
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bullet_4
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 242
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bullet_5
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 228
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bullet_6
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 206
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bullet_7
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 190
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
